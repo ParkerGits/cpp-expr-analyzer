@@ -11,7 +11,7 @@ The grammar rules are as follows:
 </code>
 <br>
 <code>
-&lt;term&gt; -&gt; &lt;factor&gt; {\* &lt;factor&gt;}
+&lt;term&gt; -&gt; &lt;factor&gt; {* &lt;factor&gt;}
 </code>
 <br>
 <code>
